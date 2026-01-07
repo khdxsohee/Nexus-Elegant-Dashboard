@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Elegant Dashboard",
+  "description": "A high-end, modern dashboard UI featuring glassmorphism, smooth animations, rich iconography, and integrated Gemini AI for intelligent insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
